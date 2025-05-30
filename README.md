@@ -2,6 +2,12 @@
 
 # Clasificación y Clustering de Hongos — Mushroom Dataset
 
+
+## Descripción del Proyecto
+
+Este proyecto tiene como objetivo analizar y modelar el **Mushroom Dataset** para ayudar a la empresa Délicieux a identificar de manera automática si un hongo es comestible o venenoso, utilizando técnicas de aprendizaje supervisado y no supervisado. El análisis incluye desde la exploración y limpieza de datos hasta la aplicación de modelos de clasificación y clustering, así como la reducción de dimensionalidad mediante PCA.
+
+
 # Índice
 
 1. [Descripción del Dataset](#-descripción-del-dataset)
@@ -24,14 +30,6 @@
 11. [Estructura del Repositorio](#-estructura-del-repositorio)
 12. [Contacto](#-contacto)
 
----
-
-
-## Descripción del Proyecto
-
-Este proyecto tiene como objetivo analizar y modelar el **Mushroom Dataset** para ayudar a la empresa Délicieux a identificar de manera automática si un hongo es comestible o venenoso, utilizando técnicas de aprendizaje supervisado y no supervisado. El análisis incluye desde la exploración y limpieza de datos hasta la aplicación de modelos de clasificación y clustering, así como la reducción de dimensionalidad mediante PCA.
-
----
 
 ## 1. Descripción del Dataset
 
